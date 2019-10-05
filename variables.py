@@ -24,3 +24,4 @@ print("Тип переменной weight - ", type(weight), sep="")
 print("Тип переменной is_for_kids - ", type(is_for_kids), sep="")
 print("Тип переменной kids_age - ", type(kids_age), sep="")
 print("Тип переменной manufacturing_date - ", type(manufacturing_date), sep="")
+
